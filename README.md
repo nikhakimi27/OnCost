@@ -1,10 +1,11 @@
-## Introduction
+## Oncost
 
 OnCost is created to help to calculate the built-up-rate for wall and roof.
 
 ## Project Status
 
-This project is currently available for download. Users can calculate built-up-rate for walls and roofs. Functionality to share calculations made is in progress.
+This project is currently available for [download](https://play.google.com/store/apps/details?id=com.oncost). 
+Users can calculate built-up-rate for walls and roofs. Functionality to share calculations made is in progress. Responsive UI interface is also in development in order to support various devices.
 
 ## Project Screen Shot(s)  
 
